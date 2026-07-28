@@ -202,16 +202,5 @@ mvn spring-boot:run
 
 
 
----
-
-## 🤝 Connect With Me
-
-If you found this project useful or have suggestions for improvement, feel free to connect or contribute.
-
-⭐ If you like this project, consider giving it a **Star** on GitHub!
-
----
-
-**Built with ❤️ using Spring AI, Spring Boot, Google Gemini, and MySQL.**
 
 You can also add badges (Java, Spring Boot, Spring AI, Maven, MySQL, GitHub Stars, License, etc.) or screenshots later to make the repository look even more professional.
